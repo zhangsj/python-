@@ -2,6 +2,7 @@
 #_*_ coding:utf-8 _*_
 
 # Filename : 3.py
+# 输入一段去重，并保存到文件。存在问题 保存的为乱码
 import pickle
 txt = raw_input("pls enter somethting:")
 

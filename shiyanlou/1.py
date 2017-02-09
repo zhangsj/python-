@@ -2,7 +2,7 @@
 #_*_ coding:utf-8 _*_
 
 # Filename : 1.py
-
+# 输入一个数字，打印出0到这个数之间的素数
 m = int(raw_input("pls enter a num: "))
 
 def s(n):
